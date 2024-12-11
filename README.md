@@ -1,4 +1,4 @@
-# 📜 Quote Generator
+# 📜 Fun AI Game Fact Generator
 
 ## 🛠️ Tech Stack
 This project utilizes a variety of technologies to create an engaging and interactive experience:
@@ -13,7 +13,7 @@ This project utilizes a variety of technologies to create an engaging and intera
 ---
 
 ## 🌟 Description
-The Quote Generator is an interactive web application designed to provide users with **inspiring Islamic quotes**. It leverages artificial intelligence to craft unique, meaningful quotes on every request. Here's what the app does:
+The Quote Generator is an interactive web application designed to provide users with **fun fact about the history of retro gaming**. It leverages artificial intelligence to craft unique, meaningful quotes on every request. Here's what the app does:
 
 - **Dynamic Quote Generation**: 
    - Each visit or interaction with the app prompts the OpenAI API to generate a fresh Islamic quote.  
