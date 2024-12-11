@@ -1,4 +1,4 @@
-# 📜 Fun AI Game Fact Generator
+# 👾 Fun AI Game Fact Generator
 
 ## 🛠️ Tech Stack
 This project utilizes a variety of technologies to create an engaging and interactive experience:
