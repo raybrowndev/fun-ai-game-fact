@@ -1,5 +1,5 @@
 import express from 'express';
-import chatCompletion from './services/openai.js';
+import chatCompletion from '../services/openai.js';
 
 const app = express();
 
